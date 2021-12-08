@@ -2,6 +2,8 @@
  *  Name:           In Woo Park
  *  Date:           November 25, 2021
  *  Assignment:     Final Project
+ *  Description:    A Program that will do array comparisons 
+ *                   in parallel using OpenMP.
  *
  ************************************************************/
 
